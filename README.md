@@ -6,7 +6,7 @@
 1.	Python Anaconda Setup: 
 Go to https://www.anaconda.com/products/individual
 Click "Download" and it jumps to "Anaconda Installers". Choose the operating system in your computer Windows, macOS, or Linux. Select Python 3.8 version, 64-Bit Graphical Installer. Download Anaconda installation application. After download, double click to install Anaconda in your computer.
-Review: Top 20 Python libraries for data science in 2018: https://activewizards.com/blog/top-20-python-libraries-for-data-science-in-2018/ or [here] (Top 20 Python libraries for data science in 2018 _ ActiveWizards_ data science and engineering lab.pdf)
+Review: Top 20 Python libraries for data science in 2018: https://activewizards.com/blog/top-20-python-libraries-for-data-science-in-2018/ or [here](/Top 20 Python libraries for data science in 2018 _ ActiveWizards_ data science and engineering lab.pdf)
 2.	Git Setup: 
 Install Git from https://git-scm.com/downloads
 3.	Set up a Github Account: 
