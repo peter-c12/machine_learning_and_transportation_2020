@@ -3,18 +3,18 @@
 
 
 
-1.	Python Anaconda Setup: 
+1. Computer and Internet: 
+    Bring your computer every class and make sure the internet is available.
+2.	Python Anaconda Setup: 
 Go to https://www.anaconda.com/products/individual
 Click "Download" and it jumps to "Anaconda Installers". Choose the operating system in your computer Windows, macOS, or Linux. Select Python 3.8 version, 64-Bit Graphical Installer. Download Anaconda installation application. After download, double click to install Anaconda in your computer.
 Review: Top 20 Python libraries for data science in 2018: https://activewizards.com/blog/top-20-python-libraries-for-data-science-in-2018/ or Top 20 Python libraries for data science in 2018 _ ActiveWizards_ data science and engineering lab.pdf under this repository.
-2.	Git Setup: 
+3.	Git Setup: 
 Install Git from https://git-scm.com/downloads
-3.	Set up a Github Account: 
+4.	Set up a Github Account: 
     Go to www.github.com to set up your account if you don’t have a Github account yet. We will use Github to download popular machine learning study materials and projects, as well as turn in your projects in Github. 
-4.	Install Sublime Text: 
+5.	Install Sublime Text: 
     We will learn how to edit Markdown document in Sublime Text for your project writeup. 
-5.	Computer and Internet: 
-    Bring your computer every class and make sure the internet is available.
 6.	Book and Materials:
     1. We will use “Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition” by Sebastian Raschka
 & Vahid Mirjalili in our class. The python codes in this book will be used in class. The code can be downloaded from https://github.com/rasbt/python-machine-learning-book-3rd-edition. Try to use Git to download it instead of downloading directly from Github website. Under Git and the directory you want the downloaded folder to be located at, type “git clone https://github.com/rasbt/python-machine-learning-book-3rd-edition". You can buy this book from website if necessary.
