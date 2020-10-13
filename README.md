@@ -15,7 +15,7 @@ Install Git from https://git-scm.com/downloads
     Go to www.github.com to set up your account if you don’t have a Github account yet. We will use Github to download popular machine learning study materials and projects, as well as turn in your projects in Github. 
 5.	Install Sublime Text: 
     We will learn how to edit Markdown document in Sublime Text for your project writeup. 
-6.	Book and Materials:
+6.	Books and Materials:
     1. We will use “Python Machine Learning Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition” by Sebastian Raschka
 & Vahid Mirjalili in our class. The python codes in this book will be used in class. The code can be downloaded from https://github.com/rasbt/python-machine-learning-book-3rd-edition. Try to use Git to download it instead of downloading directly from Github website. Under Git and the directory you want the downloaded folder to be located at, type “git clone https://github.com/rasbt/python-machine-learning-book-3rd-edition". You can buy this book from website if necessary.
     2. The second book we will use is “Python机器学习及实践：从零开始通往Kaggle竞赛之路” by 范淼 & 李超. The python codes in this book will be used in class. The code can be downloaded from https://github.com/godfanmiao/DIY_ML_Systems_with_Python_1st_Edition. Try to use Git to download it instead of downloading directly from Github website. You can buy this book from website if necessary.
