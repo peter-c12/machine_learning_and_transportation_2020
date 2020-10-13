@@ -4,7 +4,7 @@
 
 
 1. ***Computer and Internet: 
-    Bring your computer every class and make sure the internet is available.***
+    Bring your computer to class and make sure the internet is available.***
 2.	Python Anaconda Setup: 
 Go to https://www.anaconda.com/products/individual
 Click "Download" and it jumps to "Anaconda Installers". Choose the operating system in your computer Windows, macOS, or Linux. Select Python 3.8 version, 64-Bit Graphical Installer. Download Anaconda installation application. After download, double click to install Anaconda in your computer.
