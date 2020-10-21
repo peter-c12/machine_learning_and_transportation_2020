@@ -28,6 +28,10 @@ See You All in Class!
 
 PC
 
+---
 
+
+10/21/2020
+Project Options: https://github.com/udacity/machine-learning/tree/master/projects
 
 ---
