@@ -33,6 +33,6 @@ PC
 
 10/21/2020
 
-Project Options: https://github.com/udacity/machine-learning/tree/master/projects
+Project1 Options: https://github.com/udacity/machine-learning/tree/master/projects
 
 ---
